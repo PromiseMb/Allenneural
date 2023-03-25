@@ -1,0 +1,23 @@
+{
+   "describedBy": "https://raw.githubusercontent.com/AllenNeuralDynamics/aind-data-schema/main/src/aind_data_schema/subject.py",
+   "schema_version": "0.2.2",
+   "species": "Mus musculus",
+   "subject_id": "612057",
+   "sex": "Female",
+   "date_of_birth": "2017-10-05",
+   "genotype": "wt/wt",
+   "mgi_allele_ids": null,
+   "background_strain": "BALB/c",
+   "source": null,
+   "rrid": null,
+   "restrictions": null,
+   "breeding_group": null,
+   "maternal_id": null,
+   "maternal_genotype": null,
+   "paternal_id": null,
+   "paternal_genotype": null,
+   "light_cycle": null,
+   "home_cage_enrichment": null,
+   "wellness_reports": null,
+   "notes": null
+}
